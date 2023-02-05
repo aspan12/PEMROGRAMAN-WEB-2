@@ -1,0 +1,25 @@
+body{
+    background-color: #000;
+}
+h3{
+    font-weight: bold;
+    font-size: 20px;
+    color: #f00;
+}
+p{
+    color: #00f;
+}
+button{
+    width: 80px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    border: 3px solid white;
+    border-radius: 3px;
+}
+input{
+    height: 30px;
+    width: 180px;
+    border-radius: 5px;
+    border: 1px solid blue;
+}
